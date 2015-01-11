@@ -15,7 +15,7 @@
 <body>
 	<h1>Spoj User Info</h1><hr><br>
 	<p>An Application to find User Details from Spoj. Your Data will appear below as a table. </p>
-	<p>Please file all bugs [in the issue tracker](https://github.com/faizanayubi/HotelsCrawler/issues).</p>
+	<p>Please file all bugs [in the issue tracker](https://github.com/faizanayubi/SpojUserAPI/issues).</p>
 	<form id="user_info">
 		<table style="float:center">
 			<tr>
